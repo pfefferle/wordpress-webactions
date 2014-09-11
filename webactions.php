@@ -40,7 +40,7 @@ class WebActionPlugin {
   public static function comment_reply_link( $link, $args, $comment, $post ) {
     $permalink = get_permalink($post->ID);
 
-    return "<action do='reply' with='".esc_url( add_query_arg( 'replytocom', $comment->comment_ID, $permalink ) )."'>$link</action>";
+    return "<indie-action do='reply' with='".esc_url( add_query_arg( 'replytocom', $comment->comment_ID, $permalink ) )."'>$link</indie-action>";
   }
 
   /**
@@ -50,14 +50,14 @@ class WebActionPlugin {
     $post = get_queried_object();
     $permalink = get_permalink($post->ID);
 
-    echo "<action do='reply' with='$permalink'>";
+    echo "<indie-action do='reply' with='$permalink'>";
   }
 
   /**
    * generic webaction "closer"
    */
   public static function after() {
-    echo "</action>";
+    echo "</indie-action>";
   }
 }
 
