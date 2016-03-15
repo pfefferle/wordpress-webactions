@@ -2,7 +2,7 @@
 /**
  * Plugin Name: web actions
  * Plugin URI: https://github.com/pfefferle/wordpress-webactions
- * Description: Adds [web action](http://indiewebcamp.com/webactions) support to some WordPress core features
+ * Description: Adds <a href="http://indiewebcamp.com/webactions">web action</a> support to some WordPress core features
  * Author: pfefferle
  * Author URI: http://notizblog.org/
  * Version: 1.0.0-dev
