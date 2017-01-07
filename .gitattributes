@@ -1,3 +1,8 @@
 package.json export-ignore
 README.md export-ignore
+readme.txt export-ignore
+phpcs.xml export-ignore
+composer.json export-ignore
+composer.lock export-ignore
 .gitignore export-ignore
+.editorconfig export-ignore
