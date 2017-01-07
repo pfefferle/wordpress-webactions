@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-webactions",
+  "description": "Adds WebAction support to some WordPress core features.",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfefferle/wordpress-webactions.git"
+  },
+  "keywords": [
+    "webactions",
+    "indieweb"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.0",
+    "grunt-replace": "^1.0.1",
+    "grunt-wp-i18n": "^0.5.4",
+    "grunt-wp-readme-to-markdown": "^2.0.1"
+  },
+  "author": "Matthias Pfefferle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfefferle/wordpress-webactions/issues"
+  },
+  "homepage": "https://github.com/pfefferle/wordpress-webactions#readme"
+}
