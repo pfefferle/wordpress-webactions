@@ -1,6 +1,6 @@
 === Webactions ===
 Contributors: pfefferle
-Donate link: http://14101978.de
+Donate link: https://notiz.blog/donate/
 Tags: webactions, indieweb
 Requires at least: 4.7
 Tested up to: 4.7
