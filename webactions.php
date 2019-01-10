@@ -4,7 +4,7 @@
  * Plugin URI: https://github.com/pfefferle/wordpress-webactions
  * Description: Adds <a href="http://indiewebcamp.com/webactions">Webactions</a> support to some WordPress core features.
  * Author: pfefferle
- * Author URI: http://notiz.blog/
+ * Author URI: https://notiz.blog/
  * Version: 1.0.0
  * License: MIT
  * License URI: http://opensource.org/licenses/MIT
